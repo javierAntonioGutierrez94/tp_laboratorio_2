@@ -1,0 +1,13 @@
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\MiCalculadora\obj\Debug\MiCalculadora.pdb

@@ -1,0 +1,6 @@
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\jagutierrez\source\repos\Javier_Gutierrez_2D\Entidades\obj\Debug\Entidades.pdb
